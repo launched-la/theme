@@ -16,7 +16,7 @@
     "classnames": "^2.2.6",
     "expose-loader": "^0.7.5",
     "foundation-sites": "^6.5.3",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "ts-loader": "^5.4.5",
